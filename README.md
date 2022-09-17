@@ -9,6 +9,8 @@ switch.
 
 This project is in beta, use at your own risk.
 
+[![Modifying as master](https://img.youtube.com/vi/B8RjDWIedTY/0.jpg)](https://www.youtube.com/watch?v=B8RjDWIedTY)
+
 ## Triggering in a trail camera
 
 ### Tracing the signal path
